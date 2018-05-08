@@ -8710,7 +8710,8 @@ html.mm-wrapper_opened {
 
 .header-composition {
   text-align: center;
-  position: relative; }
+  position: relative;
+  top: 150px; }
   .header-composition p {
     margin-top: 40px; }
   .header-composition .button {
